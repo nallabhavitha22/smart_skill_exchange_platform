@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+pydantic
+streamlit
+requests
